@@ -1,0 +1,6 @@
+com\fealtyx\studentapi\controller\StudentController.class
+com\fealtyx\studentapi\service\StudentService.class
+com\fealtyx\studentapi\model\Student.class
+com\fealtyx\studentapi\StudentApiApplication.class
+com\fealtyx\studentapi\exception\GlobalExceptionHandler.class
+com\fealtyx\studentapi\controller\StudentSummaryController.class
