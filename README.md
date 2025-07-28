@@ -2,7 +2,8 @@
 
 # Student API with Gemini AI Summary
 
-![Swagger UI Screenshot](docs/swagger-ui.png)
+<img width="1920" height="1080" alt="Screenshot 2025-07-28 215542" src="https://github.com/user-attachments/assets/18ee0dfe-eef0-49d3-88fd-f77b14724183" />
+
 
 This is a Spring Boot REST API for managing student records with CRUD operations and AI-powered profile summaries using Google Gemini.
 
